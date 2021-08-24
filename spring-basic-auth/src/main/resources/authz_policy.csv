@@ -1,0 +1,2 @@
+p, *, /profile, GET
+p, alex, /accounts, GET

@@ -1,0 +1,2 @@
+p, READ_PROFILE, /profile, GET
+p, READ_ACCOUNTS, /accounts, GET
